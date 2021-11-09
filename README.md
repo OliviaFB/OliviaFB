@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @OliviaFB, Frenchie living in the Netherlands for 9 years!
 - 👀 I’m interested in frontend development
 - 🌱 I’m currently learning more about responsiveness and after that will be learning about React
-- 💞️ I’m looking to collaborate on meaningful projects and learn from other frontend devs
+- 💞️ I’m looking to collaborate on meaningful projects and learn from experienced frontend devs
 - 📫 You can reach me at forbault.olivia@gmail.com
 
 <!---
