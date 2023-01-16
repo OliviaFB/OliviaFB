@@ -1,4 +1,4 @@
-- 👋  Hi, I’m @OliviaFB, Frenchie living in the Netherlands for 9 years!
+- 👋  Hi, I’m @OliviaFB, Frenchie living in the Netherlands for 10 years!
 - 👀  I’m interested in frontend development
 - 🌱  I’m currently learning more about responsiveness and after that will be learning about React
 - 💞️  I’m looking to collaborate on meaningful projects and learn from experienced frontend devs
